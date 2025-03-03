@@ -1,28 +1,13 @@
 ### Hi there👋
-
-<!--
-**TheNhatAT/thenhatat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # About me
 
-My name is Nguyen Ngoc Tu, 23 years old. <br />
+My name is Nguyen Ngoc Tu, 24 years old. <br />
 
 I studied in Hanoi University of Science and Technology from August 2019, and graduated in October 2023<br />
 My major is Computer Engineering <br />
 I came from Thai Binh province, Vietnam. <br/>
 
-Currently I am working as a Backend Developer in VarMeta Company. 
+Currently I am working as a Software Engineer in VarMeta Company. 
 
 # Skills
 💪 The order from left to right show the my confidence at that skill from highest to lowest 💪
@@ -30,9 +15,9 @@ Currently I am working as a Backend Developer in VarMeta Company.
 
 ### Languages
 <div class="d-flex justify-content-between">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -41,17 +26,19 @@ Currently I am working as a Backend Developer in VarMeta Company.
 
 ### Environments, Frameworks and Libraries
 <div class="d-flex justify-content-between">
+  <img alt="Spring" src="https://img.shields.io/badge/spring-1957a8.svg?style=for-the-badge&logo=nest-dot-js&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img alt="NestJs" src="https://img.shields.io/badge/nestjs-d6333c.svg?style=for-the-badge&logo=nest-dot-js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img alt="Molecular" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
-  <img alt="Spring" src="https://img.shields.io/badge/spring-1957a8.svg?style=for-the-badge&logo=nest-dot-js&logoColor=white"/>
   <img alt="Vue" src="https://img.shields.io/badge/vue-%23000.svg?style=for-the-badge&logo=vue&logoColor=white"/>
 </div>
 
 ### Database
 <div class="d-flex justify-content-between">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right:40px;"/>
+  <img alt="MSSQL" src="https://img.shields.io/badge/mssql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right:40px;"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" padding="10px"/>
 </div>
 
