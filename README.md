@@ -38,8 +38,8 @@ Currently I am working as a Software Engineer in Viettel Digital Service Corpora
 ### Database
 <div class="d-flex justify-content-between">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right:40px;"/>
-  <img alt="MSSQL" src="https://img.shields.io/badge/mssql-%2300f.svg?style=for-the-badge" style="margin-right:40px;"/>
-  <img alt="MariaDB" src="https://img.shields.io/badge/maria-db-%2300f.svg?style=for-the-badge" style="margin-right:40px;"/>
+  <img alt="MSSQL" src="https://img.shields.io/badge/mssql-%2500f.svg?style=for-the-badge" style="margin-right:40px;"/>
+  <img alt="MariaDB" src="https://img.shields.io/badge/mariadb-%2400f.svg?style=for-the-badge" style="margin-right:40px;"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" padding="10px"/>
 </div>
 
@@ -51,9 +51,9 @@ Currently I am working as a Software Engineer in Viettel Digital Service Corpora
   <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%FFFFFF.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
-  <img alt="Confluence" src="https://img.shields.io/badge/confluence-%2300f.svg?style=for-the-badge"/>
-  <img alt="Jira" src="https://img.shields.io/badge/jira-%2300f.svg?style=for-the-badge"/>
-  <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%2300f.svg?style=for-the-badge"/>
+  <img alt="Confluence" src="https://img.shields.io/badge/confluence-%4000f.svg?style=for-the-badge"/>
+  <img alt="Jira" src="https://img.shields.io/badge/jira-%3000f.svg?style=for-the-badge"/>
+  <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%5200f.svg?style=for-the-badge"/>
 </div>
 
 ### Containerization and Virtualization
