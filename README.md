@@ -7,7 +7,7 @@ I studied in Hanoi University of Science and Technology from August 2019, and gr
 My major is Computer Engineering <br />
 I came from Thai Binh province, Vietnam. <br/>
 
-Currently I am working as a Software Engineer in VarMeta Company. 
+Currently I am working as a Software Engineer in Viettel Digital Service Corporation (VDS). 
 
 # Skills
 💪 The order from left to right show the my confidence at that skill from highest to lowest 💪
@@ -38,15 +38,16 @@ Currently I am working as a Software Engineer in VarMeta Company.
 ### Database
 <div class="d-flex justify-content-between">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right:40px;"/>
-  <img alt="MSSQL" src="https://img.shields.io/badge/mssql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right:40px;"/>
+  <img alt="MSSQL" src="https://img.shields.io/badge/mssql-%2300f.svg?style=for-the-badge&logo=mssql&logoColor=white" style="margin-right:40px;"/>
+  <img alt="MariaDB" src="https://img.shields.io/badge/mariadb%2300f.svg?style=for-the-badge&logo=mariadb&logoColor=white" style="margin-right:40px;"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" padding="10px"/>
 </div>
 
 ### Tools
 <div class="d-flex justify-content-between">
+  <img alt="Intellij" src="https://img.shields.io/badge/intellij-098759.svg?style=for-the-badge&logo=intellij&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Webstorm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"/>
-  <img alt="Intellij" src="https://img.shields.io/badge/intellij-098759.svg?style=for-the-badge&logo=intellij&logoColor=white"/>
   <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%FFFFFF.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />
